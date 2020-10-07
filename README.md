@@ -38,4 +38,4 @@ Luckily PowerPoint exports the slides with the slide numbers at the end so you c
 
 10 - Once saved ypu can go to ```https://<GITHUB USERNAME>.github.io/<REPO_NAME>``` to access your slides
 
-11 - Now you can easily share the slides with the attendees of your webinars, cheeers!
+11 - Now you can easily share the slides with the attendees of your webinars, cheeers
