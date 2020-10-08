@@ -7,7 +7,7 @@
 
 # Architecture Flow
 
-<img width="1002" alt="Screen Shot 2020-10-08 at 1 03 22 PM" src="https://user-images.githubusercontent.com/15332386/95438103-e64c3400-0966-11eb-965b-54216160e8e3.png">
+<img width="1000" alt="Screen Shot 2020-10-08 at 1 21 29 PM" src="https://user-images.githubusercontent.com/15332386/95439851-3a581800-0969-11eb-888d-b181ca4104fb.png">
 
 
 
