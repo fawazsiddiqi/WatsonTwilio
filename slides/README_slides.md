@@ -99,3 +99,7 @@ jupyter:
 +++ {"slideshow": {"slide_type": "slide"}}
 
 ![center](https://github.com/fawazsiddiqi/WatsonTwilio/blob/master/images/slide_images/Slide22.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/fawazsiddiqi/WatsonTwilio/blob/master/images/slide_images/Slide23.png?raw=true)
